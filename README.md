@@ -6,4 +6,4 @@ what is your favourite Anime? : )
 2. Naruto
 3. yuruCamp
 4. sycho-Pass
-
+5. Jujutsh Kaisen
